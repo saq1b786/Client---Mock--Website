@@ -18,4 +18,4 @@ A responsive website created for a mock client project, built using **HTML, CSS,
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saq1b786/Client-Mock-Website.git
+   [git clone https://github.com/saq1b786/Client-Mock-Website.git](https://github.com/saq1b786/Client---Mock--Website](https://github.com/saq1b786/Client---Mock--Website)
